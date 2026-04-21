@@ -5,12 +5,9 @@
 ---
 
 ##  Team
-
-| Roll No    | Name          |
-| ---------- | ------------- |
-| UCE2023638 | Tejal Kunde   |
-| UCE2023647 | Rutuja Narode |
-| UCE2023653 | Aarya Patil   |
+Rutuja Narode
+Tejal Kunde
+Aarya Patil
 
 ---
 
